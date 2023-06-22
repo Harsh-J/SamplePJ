@@ -1,0 +1,1 @@
+var text =  'This is a signup js file'
