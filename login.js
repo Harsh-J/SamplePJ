@@ -1,0 +1,1 @@
+var txt = 'This is a login js file'
