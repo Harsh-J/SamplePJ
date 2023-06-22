@@ -1,0 +1,3 @@
+[submodule "xdapp-book"]
+	path = xdapp-book
+	url = https://github.com/wormhole-foundation/xdapp-book.git
